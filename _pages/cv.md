@@ -16,8 +16,7 @@ Education
 
 Experience
 ======
-* <p style="text-align:left;">Jun 2021 - May 2023: Research Assistant @ UMass Amherst<span style="float:right;">📍 Amherst, MA</span></p>
-
+* <p style="text-align:left;">Jun 2021 - May 2023: Research Assistant @ UMass Amherst<span style="float:right;"> 📍 Amherst, MA</span></p>
   * Research Topic: AI for Computational Chemistry
   * Advisor: Prof. Zhou Lin & Prof. Hui Guan
 
