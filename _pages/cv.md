@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Eng in Software Engineering, Tongji University, 2023
-* Ph.D in Computer Science and Engineering, University of Notre Dame, 2028 (expected)
+* B.Eng. in Software Engineering, Tongji University, 2023
+* Ph.D. in Computer Science and Engineering, University of Notre Dame, 2028 (expected)
 
 Experience
 ======
-* un 2021 - May 2023: Research Assistant @ UMass Amherst
+* Jul 2021 - May 2023: Research Assistant @ UMass Amherst
   * Research Topic: AI for Computational Chemistry
   * Advisor: Prof. Zhou Lin & Prof. Hui Guan
 
