@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Software Engineering, Tongji University, 2023
+* B.Eng in Software Engineering, Tongji University, 2023
 * Ph.D in Computer Science and Engineering, University of Notre Dame, 2028 (expected)
 
 Experience
 ======
-* Jun 2021 - May 2023: Research Assistant @ UMass Amherst 📍 Amherst, MA
+* <p style="text-align:left;">Jun 2021 - May 2023: Research Assistant @ UMass Amherst<span style="float:right;"> 📍 Amherst, MA</span></p>
   * Research Topic: AI for Computational Chemistry
   * Advisor: Prof. Zhou Lin & Prof. Hui Guan
 
-* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP 📍 Shanghai, China
+* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP <p align="right">📍 Shanghai, China</p>
   * Research Topic: AI for Precise Medicine
   * Duties included: Research on SSL & Knowledge Fusion on Biological Networks
   
 
-* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China 📍 Shanghai, China
+* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China <p align="right">📍 Shanghai, China</p>
   * Duties included: Dev of ETL pipeline generator, Predictive analysis based on SAP database
 
 
