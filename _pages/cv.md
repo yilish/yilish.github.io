@@ -51,7 +51,7 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   -->
-**Selected Awards**
+Selected Awards
 ======
 * Chinese National Scholarship, 2021
 * Excellent Graduate @ Tongji U, 2023
