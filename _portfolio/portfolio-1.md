@@ -6,3 +6,4 @@ collection: portfolio
 
 
 No too much description :3 Simply summer outfits. With iced latte (Starbucks are cheaper in 🇨🇦)
+<img src='/images/WechatIMG105.jpeg'>
