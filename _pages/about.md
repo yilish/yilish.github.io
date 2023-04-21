@@ -30,7 +30,7 @@ Experience
   * Duties included: Research on SSL & Knowledge Fusion on Biological Networks
   
 
-* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China 
+* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Labs China 
   * Duties included: Dev of ETL pipeline generator, Predictive analysis based on SAP database
 
 
