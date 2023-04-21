@@ -63,9 +63,9 @@ Talks
   -->
 **Selected Awards**
 ======
-Chinese National Scholarship, 2021
-Excellent Graduate @ Tongji U, 2023
-Excellent Student Leader @ Tongji U, 2020
-Excellent Student Scholarship @ Tongji U, 2020
-International Meritorious Winner @ MCM / ICM, 2021
-1st Prize in CChO, 2017
+* Chinese National Scholarship, 2021
+* Excellent Graduate @ Tongji U, 2023
+* Excellent Student Leader @ Tongji U, 2020
+* Excellent Student Scholarship @ Tongji U, 2020
+* International Meritorious Winner @ MCM / ICM, 2021
+* 1st Prize in CChO, 2017
