@@ -16,8 +16,8 @@ I am expected to get my B.Eng. in Software Engineering degree from Tongji Univer
 
 Education
 ======
-* B.Eng. in Software Engineering, Tongji University, 2023
-* Ph.D. in Computer Science and Engineering, University of Notre Dame, 2028 (expected)
+* B.Eng. in Software Engineering, Tongji University, 2018 - 2023
+* Ph.D. in Computer Science and Engineering, University of Notre Dame, 2023 - 2028 (expected)
 
 Experience
 ======
@@ -59,11 +59,11 @@ Talks
   
 Selected Awards
 ======
-* Chinese National Scholarship, 2021
-* Excellent Graduate @ Tongji U, 2023
-* Excellent Student Leader @ Tongji U, 2020
+* Chinese National Scholarship 👑 , 2021
+* Excellent Graduate 🎓 @ Tongji U, 2023
+* Excellent Student Leader 🧓 @ Tongji U, 2020
 * Excellent Student Scholarship @ Tongji U, 2020
-* International Meritorious Winner @ MCM / ICM, 2021
-* 1st Prize in CChO, 2017
+* International Meritorious Winner 🎶 @ MCM / ICM, 2021
+* 1st Prize in CChO 🧑‍🔬, 2017
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=YAYGHGNPtNGmgJju6NssG2kHopklZbsuied2EmAa3k8'></script>
