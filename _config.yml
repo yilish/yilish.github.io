@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yili Shen"
 title_separator          : "-"
 name                     : &name "Yili Shen"
-description              : &description "Incoming Ph.D. Student @ ☘️ND CSE"
+description              : &description "Incoming Ph.D. Student @ \n ☘️ND CSE"
 url                      : https://yilish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yilish/yilish.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yili Shen"
-  avatar           : "profile.png"
+  avatar           : "44CD8C1E-25EB-46E4-9167-412CFBA7DFA0.png"
   bio              : "Incoming Ph.D. Student @ ☘️ND CSE"
   location         : "Shanghai, China"
   employer         :
