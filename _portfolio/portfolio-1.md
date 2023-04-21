@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-No too much description :3 Simply summer outfits. 
+No too much description :3 Simply summer outfits. With iced latte (Starbucks are cheaper in 🇨🇦)
