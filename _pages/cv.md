@@ -16,16 +16,16 @@ Education
 
 Experience
 ======
-* <p style="text-align:left;">Jun 2021 - May 2023: Research Assistant @ UMass Amherst<span style="float:right;"> 📍 Amherst, MA</span></p>
+* un 2021 - May 2023: Research Assistant @ UMass Amherst
   * Research Topic: AI for Computational Chemistry
   * Advisor: Prof. Zhou Lin & Prof. Hui Guan
 
-* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP <p align="right">📍 Shanghai, China</p>
+* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP
   * Research Topic: AI for Precise Medicine
   * Duties included: Research on SSL & Knowledge Fusion on Biological Networks
   
 
-* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China <p align="right">📍 Shanghai, China</p>
+* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China 
   * Duties included: Dev of ETL pipeline generator, Predictive analysis based on SAP database
 
 
