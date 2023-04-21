@@ -66,4 +66,4 @@ Selected Awards
 * International Meritorious Winner @ MCM / ICM, 2021
 * 1st Prize in CChO, 2017
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YAYGHGNPtNGmgJju6NssG2kHopklZbsuied2EmAa3k8"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=YAYGHGNPtNGmgJju6NssG2kHopklZbsuied2EmAa3k8'></script>
