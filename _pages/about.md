@@ -16,21 +16,21 @@ I am expected to get my B.Eng. in Software Engineering degree from Tongji Univer
 
 Education
 ======
-* B.S. in Software Engineering, Tongji University, 2023
+* B.Eng in Software Engineering, Tongji University, 2023
 * Ph.D in Computer Science and Engineering, University of Notre Dame, 2028 (expected)
 
 Experience
 ======
-* Jun 2021 - May 2023: Research Assistant @ UMass Amherst 📍 Amherst, MA
+* un 2021 - May 2023: Research Assistant @ UMass Amherst
   * Research Topic: AI for Computational Chemistry
   * Advisor: Prof. Zhou Lin & Prof. Hui Guan
 
-* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP 📍 Shanghai, China
+* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP
   * Research Topic: AI for Precise Medicine
   * Duties included: Research on SSL & Knowledge Fusion on Biological Networks
   
 
-* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China 📍 Shanghai, China
+* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Lab China 
   * Duties included: Dev of ETL pipeline generator, Predictive analysis based on SAP database
 
 
@@ -56,7 +56,9 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   -->
-**Selected Awards**
+  
+  
+Selected Awards
 ======
 * Chinese National Scholarship, 2021
 * Excellent Graduate @ Tongji U, 2023
@@ -64,3 +66,4 @@ Talks
 * Excellent Student Scholarship @ Tongji U, 2020
 * International Meritorious Winner @ MCM / ICM, 2021
 * 1st Prize in CChO, 2017
+
