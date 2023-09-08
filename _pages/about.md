@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
-An incoming Ph.D. student of ☘️ University of Notre Dame CSE program. 
+A Ph.D. student of ☘️ University of Notre Dame CSE program. 
 I have a profound interest in Graph Machine Learning 🤖️ and AI for Science 🧪 topics.
-I am currently co-advised by Prof. Zhou Lin and Prof. Hui Guan in UMass Amherst, focusing on graph neural networks and their applications on quantum chemistry. Prior to that, I spent wonderful time as an intern in Baidu NLP and SAP respectively. 
-I am expected to get my B.Eng. in Software Engineering degree from Tongji University in Jun 2023. 
+I am currently a Ph.D. student in Computer Science @ University of Notre Dame, advised by Prof. Xiangliang Zhang.
+Prior to that, I was co-advised by Prof. Zhou Lin and Prof. Hui Guan in UMass Amherst, focusing on graph neural networks and their applications on quantum chemistry. I spent wonderful time as an intern in Baidu NLP and SAP respectively. 
+I got my Bachelor in Software Engineering degree from Tongji University in Jun 2023. 
 
 Education
 ======
