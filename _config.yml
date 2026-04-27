@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yili Shen"
-  avatar           : "44CD8C1E-25EB-46E4-9167-412CFBA7DFA0.png"
-  bio              : "Incoming Ph.D. Student @ \n ☘️ND CSE"
-  location         : "Shanghai, China"
+  avatar           : "avatar.png"
+  bio              : "Ph.D. Student @ \n ND CSE"
+  location         : "South Bend, IN"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pGXpaXoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pGXpaXoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "yshen7@nd.edu"
   researchgate     : "https://www.researchgate.net/profile/Yili-Shen/research" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -99,7 +99,7 @@ author:
   github           : "yilish"
   google_plus      :
   keybase          :
-  Instagram        : "yili.sh"
+  Instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yili-shen-3609861a3/"
