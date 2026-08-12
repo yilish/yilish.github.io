@@ -28,23 +28,6 @@ redirect_from:
   <span>Applied Scientist Intern at <strong>Zillow</strong> in Seattle, working on LLM steering and reliability.</span>
 </div>
 
-## Current work
-
-<div class="research-grid">
-  <article class="research-card">
-    <span class="research-card__tag">LLM Reliability</span>
-    <h3>Activation steering and termination</h3>
-    <p>Diagnosing <em>never-stop</em>, a failure mode in which persistent steering disrupts language-model termination without necessarily degrading opening-window quality.</p>
-    <a href="https://openreview.net/forum?id=QIdFmH6LfT">Under review →</a>
-  </article>
-  <article class="research-card">
-    <span class="research-card__tag">Generative Modeling</span>
-    <h3>Reaction trajectories in latent space</h3>
-    <p>Modeling chemical reactions as continuous latent trajectories and auditing learned steering beyond endpoint accuracy.</p>
-    <a href="https://arxiv.org/abs/2602.10476">LatentRxnFlow · KDD 2026 Oral →</a>
-  </article>
-</div>
-
 ## Experience
 
 <div class="experience-list">
@@ -65,6 +48,51 @@ redirect_from:
     <time>Jul. 2021 – May 2023</time>
   </div>
 </div>
+
+## Selected Publications
+
+<div class="featured-publications">
+  <article class="featured-publication">
+    <a class="featured-publication__teaser" href="https://openreview.net/forum?id=QIdFmH6LfT" aria-label="Open Persistent Activation Steering on OpenReview">
+      <img src="/images/publications/activation-steering.png" alt="Persistent concept steering collides with language-model termination near the end of generation">
+    </a>
+    <div class="featured-publication__body">
+      <span class="status status--review">Under review</span>
+      <h3><a href="https://openreview.net/forum?id=QIdFmH6LfT">Persistent Activation Steering Disrupts Language-Model Termination</a></h3>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong>, Yijun Tian, Ruomeng Xu, Sayan Chakraborty, Baoyuan Wang, Xiangliang Zhang</p>
+      <p>Persistent steering can preserve fluent output while selectively suppressing termination.</p>
+      <a class="featured-publication__link" href="https://openreview.net/forum?id=QIdFmH6LfT">OpenReview →</a>
+    </div>
+  </article>
+
+  <article class="featured-publication">
+    <a class="featured-publication__teaser" href="https://openreview.net/forum?id=WBHlBbGMlQ" aria-label="Open Emergent Steering on OpenReview">
+      <img src="/images/publications/emergent-steering.png" alt="Directional decomposition of a chemical-reaction model update into endpoint-parallel and orthogonal components">
+    </a>
+    <div class="featured-publication__body">
+      <span class="status status--review">Under review</span>
+      <h3><a href="https://openreview.net/forum?id=WBHlBbGMlQ">Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</a></h3>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
+      <p>A directional latent audit reveals endpoint-orthogonal steering that carries most retrosynthesis utility.</p>
+      <a class="featured-publication__link" href="https://openreview.net/forum?id=WBHlBbGMlQ">OpenReview →</a>
+    </div>
+  </article>
+
+  <article class="featured-publication">
+    <a class="featured-publication__teaser" href="https://arxiv.org/abs/2602.10476" aria-label="Open LatentRxnFlow on arXiv">
+      <img src="/images/publications/latent-rxn-flow.png" alt="Continuous reaction trajectories moving across a learned latent energy landscape">
+    </a>
+    <div class="featured-publication__body">
+      <span class="status status--oral">KDD 2026 Oral</span>
+      <h3><a href="https://arxiv.org/abs/2602.10476">Driving Reaction Trajectories via Latent Flow Matching</a></h3>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong>, Xiangliang Zhang</p>
+      <p>LatentRxnFlow models reactions as continuous generative trajectories for prediction, diagnosis, and uncertainty estimation.</p>
+      <a class="featured-publication__link" href="https://arxiv.org/abs/2602.10476">arXiv →</a>
+    </div>
+  </article>
+</div>
+
+<p class="featured-publications__all"><a href="/publications/">View all publications →</a></p>
 
 ## Education
 
