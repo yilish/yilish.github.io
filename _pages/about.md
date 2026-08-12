@@ -31,7 +31,7 @@ redirect_from:
     <time>May 2026 – Present</time>
   </div>
   <div class="experience-item">
-    <div><strong>University of Notre Dame · MINE Lab</strong><span>Graduate Research Assistant</span></div>
+    <div><strong>University of Notre Dame · <a href="https://mine-lab-nd.github.io/">MINE Lab</a></strong><span>Graduate Research Assistant</span></div>
     <time>Aug. 2023 – Present</time>
   </div>
   <div class="experience-item">
