@@ -16,14 +16,12 @@ excerpt: "Publications and manuscripts by Yili Shen."
   <article class="publication-item">
     <div class="publication-meta"><span class="status status--review">Under review</span><span>2026</span></div>
     <h2>Persistent Activation Steering Disrupts Language-Model Termination: A Failure Mode Distinct from Quality Degradation</h2>
-    <p class="publication-authors"><em>Anonymous authors</em></p>
     <p class="publication-venue">Under review.</p>
   </article>
 
   <article class="publication-item">
     <div class="publication-meta"><span class="status status--review">Under review</span><span>2026</span></div>
     <h2>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h2>
-    <p class="publication-authors"><em>Anonymous authors</em></p>
     <p class="publication-venue">Under review.</p>
   </article>
 
