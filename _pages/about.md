@@ -71,7 +71,7 @@ redirect_from:
     <div class="featured-publication__body">
       <span class="status status--review">Under review</span>
       <h3><a href="https://openreview.net/forum?id=QIdFmH6LfT">Persistent Activation Steering Disrupts Language-Model Termination</a></h3>
-      <p class="featured-publication__authors"><strong>Yili Shen</strong>, Yijun Tian, Ruomeng Xu, Sayan Chakraborty, Baoyuan Wang, Xiangliang Zhang</p>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>Persistent steering can preserve fluent output while selectively suppressing termination.</p>
       <a class="featured-publication__link" href="https://openreview.net/forum?id=QIdFmH6LfT">OpenReview →</a>
     </div>
@@ -84,7 +84,7 @@ redirect_from:
     <div class="featured-publication__body">
       <span class="status status--review">Under review</span>
       <h3><a href="https://openreview.net/forum?id=WBHlBbGMlQ">Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</a></h3>
-      <p class="featured-publication__authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>A directional latent audit reveals endpoint-orthogonal steering that carries most retrosynthesis utility.</p>
       <a class="featured-publication__link" href="https://openreview.net/forum?id=WBHlBbGMlQ">OpenReview →</a>
     </div>
@@ -110,7 +110,7 @@ redirect_from:
     <div class="featured-publication__body">
       <span class="status status--review">Under review</span>
       <h3><a href="https://arxiv.org/abs/2605.13940">AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills</a></h3>
-      <p class="featured-publication__authors">Haomin Zhuang, Hanwen Xing, Yujun Zhou, Yuchen Ma, Yue Huang, <strong>Yili Shen</strong>, Yufei Han, Xiangliang Zhang</p>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>A runtime benchmark exposes trust failures that arise when third-party agent skills execute inside real frameworks.</p>
       <a class="featured-publication__link" href="https://arxiv.org/abs/2605.13940">arXiv →</a>
     </div>
