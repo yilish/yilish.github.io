@@ -69,7 +69,7 @@ redirect_from:
       <img src="/images/publications/activation-steering.png" alt="Persistent concept steering collides with language-model termination near the end of generation">
     </div>
     <div class="featured-publication__body">
-      <span class="status status--review">Under review</span>
+      <span class="status status--review">Under review · 2026</span>
       <h3>Persistent Activation Steering Disrupts Language-Model Termination</h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>Persistent steering can preserve fluent output while selectively suppressing termination.</p>
@@ -81,9 +81,9 @@ redirect_from:
       <img src="/images/publications/emergent-steering.png" alt="Directional decomposition of a chemical-reaction model update into endpoint-parallel and orthogonal components">
     </div>
     <div class="featured-publication__body">
-      <span class="status status--review">Under review</span>
+      <span class="status status--review">Under review · 2026</span>
       <h3>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h3>
-      <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
+      <p class="featured-publication__authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
       <p>A directional latent audit reveals endpoint-orthogonal steering that carries most retrosynthesis utility.</p>
     </div>
   </article>
@@ -106,7 +106,7 @@ redirect_from:
       <img src="/images/publications/agenttrap.png" alt="AgentTrap benchmark construction and runtime evaluation framework">
     </a>
     <div class="featured-publication__body">
-      <span class="status status--review">Under review</span>
+      <span class="status status--review">Under review · 2026</span>
       <h3><a href="https://arxiv.org/abs/2605.13940">AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills</a></h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>A runtime benchmark exposes trust failures that arise when third-party agent skills execute inside real frameworks.</p>
