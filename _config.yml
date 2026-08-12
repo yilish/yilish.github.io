@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yili Shen"
 title_separator          : "-"
 name                     : &name "Yili Shen"
-description              : &description "Ph.D. Student @ \n ☘️ND CSE"
+description              : &description "Yili Shen is a Ph.D. researcher working on generative modeling, model steering and reliability, and AI for science."
 url                      : https://yilish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yilish/yilish.github.io"
@@ -62,13 +62,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : og.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Yili Shen
+  links:
+    - https://github.com/yilish
+    - https://www.linkedin.com/in/yili-shen/
+    - https://scholar.google.com/citations?user=pGXpaXoAAAAJ
 
 
 # Analytics
@@ -82,13 +85,13 @@ analytics:
 author:
   name             : "Yili Shen"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D. Student @ \n ND CSE"
-  location         : "South Bend, IN"
+  bio              : "Ph.D. Researcher | Generative Modeling, Model Steering & Reliability"
+  location         : "Notre Dame, IN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pGXpaXoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "yshen7@nd.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yili-Shen/research" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              : 
   bitbucket        :
   codepen          :
@@ -102,7 +105,7 @@ author:
   Instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yili-shen-3609861a3/"
+  linkedin         : "yili-shen/"
   orcid            : "https://orcid.org/0000-0002-0963-0960"
   pinterest        :
   soundcloud       :

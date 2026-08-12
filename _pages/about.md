@@ -1,70 +1,93 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: "Yili Shen — generative modeling, model steering and reliability, and AI for science."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<div class="profile-hero">
+  <p class="profile-kicker">Generative AI · Model Steering · AI for Science</p>
+  <h1>Building generative models that are more controllable, interpretable, and reliable.</h1>
+  <p class="profile-lead">
+    I am a Ph.D. researcher in Computer Science and Engineering at the University of Notre Dame,
+    advised by <a href="https://mine-lab-nd.github.io/">Prof. Xiangliang Zhang</a>. My research studies
+    how generative models represent, steer, and execute complex behavior—from language-model
+    termination to chemical reaction trajectories.
+  </p>
+  <div class="profile-actions">
+    <a class="profile-button profile-button--primary" href="/publications/">View publications</a>
+    <a class="profile-button" href="/files/yili_shen_resume.pdf">Download resume</a>
+  </div>
+</div>
 
-A Ph.D. student of ☘️ University of Notre Dame CSE program. 
-I have a profound interest in Graph Machine Learning 🤖️ and AI for Science 🧪 topics.
-I am currently a Ph.D. student in Computer Science @ University of Notre Dame, advised by Prof. Xiangliang Zhang.
-Prior to that, I was co-advised by Prof. Zhou Lin and Prof. Hui Guan in UMass Amherst, focusing on graph neural networks and their applications on quantum chemistry. I spent wonderful time as an intern in Baidu NLP and SAP respectively. 
-I got my Bachelor in Software Engineering degree from Tongji University in Jun 2023. 
+<div class="current-note">
+  <span class="current-note__label">Currently</span>
+  <span>Applied Scientist Intern at <strong>Zillow</strong> in Seattle, working on LLM steering and reliability.</span>
+</div>
 
-Education
-======
-* B.Eng. in Software Engineering, Tongji University, 2018 - 2023
-* Ph.D. in Computer Science and Engineering, University of Notre Dame, 2023 - 2028 (expected)
+## Current work
 
-Experience
-======
-* Jul 2021 - May 2023: Research Assistant @ UMass Amherst
-  * Research Topic: AI for Computational Chemistry
-  * Advisor: Prof. Zhou Lin & Prof. Hui Guan
+<div class="research-grid">
+  <article class="research-card">
+    <span class="research-card__tag">LLM Reliability</span>
+    <h3>Activation steering and termination</h3>
+    <p>Diagnosing <em>never-stop</em>, a failure mode in which persistent steering disrupts language-model termination without necessarily degrading opening-window quality.</p>
+    <a href="https://openreview.net/forum?id=QIdFmH6LfT">Under review →</a>
+  </article>
+  <article class="research-card">
+    <span class="research-card__tag">Generative Modeling</span>
+    <h3>Reaction trajectories in latent space</h3>
+    <p>Modeling chemical reactions as continuous latent trajectories and auditing learned steering beyond endpoint accuracy.</p>
+    <a href="https://arxiv.org/abs/2602.10476">LatentRxnFlow · KDD 2026 Oral →</a>
+  </article>
+</div>
 
-* Mar 2022 - Jul 2022: Research Intern @ Baidu NLP
-  * Research Topic: AI for Precise Medicine
-  * Duties included: Research on SSL & Knowledge Fusion on Biological Networks
-  
+## Experience
 
-* Oct 2021 - Mar 2022: Data Engineer Intern @ SAP Labs China 
-  * Duties included: Dev of ETL pipeline generator, Predictive analysis based on SAP database
+<div class="experience-list">
+  <div class="experience-item">
+    <div><strong>Zillow</strong><span>Applied Scientist Intern</span></div>
+    <time>May 2026 – Present</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>University of Notre Dame · MINE Lab</strong><span>Graduate Research Assistant</span></div>
+    <time>Aug. 2023 – Present</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>Caltech · Nelson Lab</strong><span>Visiting Researcher, AI for Crystallography</span></div>
+    <time>Feb. 2025 – May 2025</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>University of Massachusetts Amherst</strong><span>Undergraduate Research Assistant</span></div>
+    <time>Jul. 2021 – May 2023</time>
+  </div>
+</div>
 
+## Education
 
-Skills
-======
-* Pytorch, PyG, DFT
+<div class="experience-list">
+  <div class="experience-item">
+    <div><strong>University of Notre Dame</strong><span>Ph.D. in Computer Science and Engineering</span></div>
+    <time>2023 – 2028 (expected)</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>Tongji University</strong><span>B.Eng. in Software Engineering (AI Concentration)</span></div>
+    <time>2019 – 2023</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>Tongji University · Department of Chemistry</strong><span>First-Year Chemistry Major</span></div>
+    <time>2018 – 2019</time>
+  </div>
+</div>
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   -->
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  -->
-  
-Selected Awards
-======
-* Chinese National Scholarship 🀄️ , 2021
-* Excellent Graduate 🎓 @ Tongji U, 2023
-* Excellent Student Leader 🛳️ @ Tongji U, 2020
-* Excellent Student Scholarship 👨‍🎓 @ Tongji U, 2020
-* International Meritorious Winner 🎶 @ MCM / ICM, 2021
-* 1st Prize in CChO 🧑‍🔬, 2017
+## Honors
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=YAYGHGNPtNGmgJju6NssG2kHopklZbsuied2EmAa3k8'></script>
+<div class="experience-list experience-list--compact">
+  <div class="experience-item">
+    <div><strong>National Scholarship</strong><span>Top 0.2% Nationwide · Ministry of Education of China</span></div>
+    <time>2021</time>
+  </div>
+</div>
