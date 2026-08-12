@@ -106,9 +106,9 @@ redirect_from:
       <img src="/images/publications/agenttrap.png" alt="AgentTrap benchmark construction and runtime evaluation framework">
     </a>
     <div class="featured-publication__body">
-      <span class="status status--review">Under review · 2026</span>
+      <span class="status">arXiv 2026</span>
       <h3><a href="https://arxiv.org/abs/2605.13940">AgentTrap: Measuring Runtime Trust Failures in Third-Party Agent Skills</a></h3>
-      <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
+      <p class="featured-publication__authors">Haomin Zhuang, Hanwen Xing, Yujun Zhou, Yuchen Ma, Yue Huang, <strong>Yili Shen</strong>, Yufei Han, Xiangliang Zhang</p>
       <p>A runtime benchmark exposes trust failures that arise when third-party agent skills execute inside real frameworks.</p>
       <a class="featured-publication__link" href="https://arxiv.org/abs/2605.13940">arXiv →</a>
     </div>
