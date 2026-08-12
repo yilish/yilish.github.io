@@ -65,28 +65,26 @@ redirect_from:
 
 <div class="featured-publications">
   <article class="featured-publication">
-    <a class="featured-publication__teaser" href="https://openreview.net/forum?id=QIdFmH6LfT" aria-label="Open Persistent Activation Steering on OpenReview">
+    <div class="featured-publication__teaser">
       <img src="/images/publications/activation-steering.png" alt="Persistent concept steering collides with language-model termination near the end of generation">
-    </a>
+    </div>
     <div class="featured-publication__body">
       <span class="status status--review">Under review</span>
-      <h3><a href="https://openreview.net/forum?id=QIdFmH6LfT">Persistent Activation Steering Disrupts Language-Model Termination</a></h3>
+      <h3>Persistent Activation Steering Disrupts Language-Model Termination</h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>Persistent steering can preserve fluent output while selectively suppressing termination.</p>
-      <a class="featured-publication__link" href="https://openreview.net/forum?id=QIdFmH6LfT">OpenReview →</a>
     </div>
   </article>
 
   <article class="featured-publication">
-    <a class="featured-publication__teaser" href="https://openreview.net/forum?id=WBHlBbGMlQ" aria-label="Open Emergent Steering on OpenReview">
+    <div class="featured-publication__teaser">
       <img src="/images/publications/emergent-steering.png" alt="Directional decomposition of a chemical-reaction model update into endpoint-parallel and orthogonal components">
-    </a>
+    </div>
     <div class="featured-publication__body">
       <span class="status status--review">Under review</span>
-      <h3><a href="https://openreview.net/forum?id=WBHlBbGMlQ">Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</a></h3>
+      <h3>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong> et al.</p>
       <p>A directional latent audit reveals endpoint-orthogonal steering that carries most retrosynthesis utility.</p>
-      <a class="featured-publication__link" href="https://openreview.net/forum?id=WBHlBbGMlQ">OpenReview →</a>
     </div>
   </article>
 

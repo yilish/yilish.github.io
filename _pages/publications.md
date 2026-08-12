@@ -17,7 +17,6 @@ excerpt: "Selected publications and manuscripts by Yili Shen."
     <h2>Persistent Activation Steering Disrupts Language-Model Termination: A Failure Mode Distinct from Quality Degradation</h2>
     <p class="publication-authors"><strong>Yili Shen</strong>, Yijun Tian, Ruomeng Xu, Sayan Chakraborty, Baoyuan Wang, Xiangliang Zhang</p>
     <p class="publication-venue">Submitted to AAAI 2027.</p>
-    <p class="publication-links"><a href="https://openreview.net/forum?id=QIdFmH6LfT">OpenReview</a></p>
   </article>
 
   <article class="publication-item">
@@ -25,7 +24,6 @@ excerpt: "Selected publications and manuscripts by Yili Shen."
     <h2>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h2>
     <p class="publication-authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
     <p class="publication-venue">Submitted to NeurIPS 2026.</p>
-    <p class="publication-links"><a href="https://openreview.net/forum?id=WBHlBbGMlQ">OpenReview</a></p>
   </article>
 
   <article class="publication-item">
