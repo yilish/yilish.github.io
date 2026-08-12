@@ -23,6 +23,23 @@ redirect_from:
   </div>
 </div>
 
+## Education
+
+<div class="experience-list">
+  <div class="experience-item">
+    <div><strong>University of Notre Dame</strong><span>Ph.D. in Computer Science and Engineering</span></div>
+    <time>2023 – 2028 (expected)</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>Tongji University</strong><span>B.Eng. in Software Engineering (AI Concentration)</span></div>
+    <time>2019 – 2023</time>
+  </div>
+  <div class="experience-item">
+    <div><strong>Tongji University · Department of Chemistry</strong><span>First-Year Chemistry Major</span></div>
+    <time>2018 – 2019</time>
+  </div>
+</div>
+
 ## Experience
 
 <div class="experience-list">
@@ -41,23 +58,6 @@ redirect_from:
   <div class="experience-item">
     <div><strong>University of Massachusetts Amherst</strong><span>Undergraduate Research Assistant</span></div>
     <time>Jul. 2021 – May 2023</time>
-  </div>
-</div>
-
-## Education
-
-<div class="experience-list">
-  <div class="experience-item">
-    <div><strong>University of Notre Dame</strong><span>Ph.D. in Computer Science and Engineering</span></div>
-    <time>2023 – 2028 (expected)</time>
-  </div>
-  <div class="experience-item">
-    <div><strong>Tongji University</strong><span>B.Eng. in Software Engineering (AI Concentration)</span></div>
-    <time>2019 – 2023</time>
-  </div>
-  <div class="experience-item">
-    <div><strong>Tongji University · Department of Chemistry</strong><span>First-Year Chemistry Major</span></div>
-    <time>2018 – 2019</time>
   </div>
 </div>
 
