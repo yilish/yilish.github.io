@@ -89,15 +89,18 @@ redirect_from:
   </article>
 
   <article class="featured-publication">
-    <a class="featured-publication__teaser" href="https://arxiv.org/abs/2602.10476" aria-label="Open LatentRxnFlow on arXiv">
+    <a class="featured-publication__teaser" href="https://dl.acm.org/doi/10.1145/3770855.3819042" aria-label="Open LatentRxnFlow at the ACM Digital Library">
       <img src="/images/publications/latent-rxn-flow.png" alt="Continuous reaction trajectories moving across a learned latent energy landscape">
     </a>
     <div class="featured-publication__body">
       <span class="status status--oral">KDD 2026 Oral</span>
-      <h3><a href="https://arxiv.org/abs/2602.10476">Driving Reaction Trajectories via Latent Flow Matching</a></h3>
+      <h3><a href="https://dl.acm.org/doi/10.1145/3770855.3819042">Driving Reaction Trajectories via Latent Flow Matching</a></h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong>, Xiangliang Zhang</p>
       <p>LatentRxnFlow models reactions as continuous generative trajectories for prediction, diagnosis, and uncertainty estimation.</p>
-      <a class="featured-publication__link" href="https://arxiv.org/abs/2602.10476">arXiv →</a>
+      <div class="featured-publication__links">
+        <a class="featured-publication__link" href="https://dl.acm.org/doi/10.1145/3770855.3819042">Paper →</a>
+        <a class="featured-publication__link" href="https://github.com/yilish/LatentRxnFlow/tree/codex/reproducibility-files">Code →</a>
+      </div>
     </div>
   </article>
 

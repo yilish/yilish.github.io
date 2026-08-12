@@ -183,6 +183,11 @@
   text-decoration: none;
 }
 
+.featured-publication__links {
+  display: flex;
+  gap: 0.85rem;
+}
+
 .featured-publications__all {
   margin: 0 0 2rem;
   text-align: right;
