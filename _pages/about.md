@@ -14,8 +14,8 @@ redirect_from:
   <p class="profile-lead">
     I am a Ph.D. researcher in Computer Science and Engineering at the University of Notre Dame,
     advised by <a href="https://mine-lab-nd.github.io/">Prof. Xiangliang Zhang</a>. My research studies
-    how generative models represent, steer, and execute complex behavior—from test-time behavior
-    in language models to chemical reaction trajectories.
+    how generative models learn, represent, steer, and execute complex behavior—from training dynamics
+    and test-time behavior in language models to scientific modeling and discovery.
   </p>
   <div class="profile-actions">
     <a class="profile-button profile-button--primary" href="/publications/">View publications</a>
