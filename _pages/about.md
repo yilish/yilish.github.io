@@ -12,7 +12,7 @@ redirect_from:
   <p class="profile-kicker">Generative AI · Model Steering · AI for Science</p>
   <h1>Building generative models that are more controllable, interpretable, and reliable.</h1>
   <p class="profile-lead">
-    I am a Ph.D. researcher in Computer Science and Engineering at the University of Notre Dame,
+    I am a Ph.D. student in Computer Science and Engineering at the University of Notre Dame,
     advised by <a href="https://mine-lab-nd.github.io/">Prof. Xiangliang Zhang</a>. My research studies
     how generative models learn, represent, steer, and execute complex behavior—from training dynamics
     and test-time behavior in language models to scientific modeling and discovery.
