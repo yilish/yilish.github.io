@@ -100,6 +100,7 @@ redirect_from:
       <div class="featured-publication__links">
         <a class="featured-publication__link" href="https://dl.acm.org/doi/10.1145/3770855.3819042">Paper →</a>
         <a class="featured-publication__link" href="https://github.com/yilish/LatentRxnFlow/tree/codex/reproducibility-files">Code →</a>
+        <a class="featured-publication__link" href="/files/latentrxnflow-kdd2026-slides.pdf">Slides →</a>
       </div>
     </div>
   </article>

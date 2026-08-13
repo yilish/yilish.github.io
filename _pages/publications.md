@@ -30,7 +30,7 @@ excerpt: "Publications and manuscripts by Yili Shen."
     <h2>Driving Reaction Trajectories via Latent Flow Matching</h2>
     <p class="publication-authors"><strong>Yili Shen</strong>, Xiangliang Zhang</p>
     <p class="publication-venue">KDD 2026.</p>
-    <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3770855.3819042">Paper</a> · <a href="https://github.com/yilish/LatentRxnFlow/tree/codex/reproducibility-files">Code</a></p>
+    <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3770855.3819042">Paper</a> · <a href="https://github.com/yilish/LatentRxnFlow/tree/codex/reproducibility-files">Code</a> · <a href="/files/latentrxnflow-kdd2026-slides.pdf">Slides</a></p>
   </article>
 
   <article class="publication-item">
