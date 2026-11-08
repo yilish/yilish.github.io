@@ -18,8 +18,8 @@ redirect_from:
     and test-time behavior in language models to scientific modeling and discovery.
   </p>
   <p class="profile-lead">
-    I am curious whether machines can learn to think, and whether we can watch a thought take shape
-    inside them and gently turn it toward somewhere no one has been.
+    I am curious whether machines can learn to reason about reactions, and whether we can watch that
+    reasoning take shape inside them, bond by bond, and gently turn it toward chemistry no one has made.
   </p>
   <div class="profile-actions">
     <a class="profile-button profile-button--primary" href="/publications/">View publications</a>
