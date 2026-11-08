@@ -18,10 +18,8 @@ redirect_from:
     and test-time behavior in language models to scientific modeling and discovery.
   </p>
   <p class="profile-lead">
-    To a chemist, a reaction is less a lookup than a small act of reasoning: bonds weighed, paths
-    imagined, most of them quietly abandoned. I am curious whether machines can learn to think this way,
-    and, if they do, whether we can look inside, follow the thought as it forms, and gently turn it
-    toward somewhere no one has been.
+    I am curious whether machines can learn to think, and whether we can watch a thought take shape
+    inside them and gently turn it toward somewhere no one has been.
   </p>
   <div class="profile-actions">
     <a class="profile-button profile-button--primary" href="/publications/">View publications</a>
