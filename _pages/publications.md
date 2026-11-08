@@ -20,9 +20,10 @@ excerpt: "Publications and manuscripts by Yili Shen."
   </article>
 
   <article class="publication-item">
-    <div class="publication-meta"><span class="status status--review">Under review</span><span>2026</span></div>
+    <div class="publication-meta"><span class="status status--published">Poster</span><span>2026</span></div>
     <h2>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h2>
-    <p class="publication-venue">Under review.</p>
+    <p class="publication-authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
+    <p class="publication-venue">NeurIPS 2026.</p>
   </article>
 
   <article class="publication-item">

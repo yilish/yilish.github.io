@@ -23,6 +23,49 @@ redirect_from:
   </div>
 </div>
 
+## Research Vision
+
+<p class="vision-lead">
+  I want to understand how machine models reason about chemical reactions, and then make that
+  reasoning <em>controllable</em>. Picture reaction space as a map: well-studied families such as
+  substitutions and condensations form dense clusters, while cycloadditions, radical chemistry, and
+  other rare transformations sit in sparse, remote regions where models break down. My work moves
+  across that map step by step.
+</p>
+
+<ol class="vision-steps">
+  <li class="vision-step vision-step--done">
+    <span class="vision-step__label">Diagnose</span>
+    <strong>Where reaction models fail</strong>
+    <p>FewRxn showed that models degrade sharply on sparse, out-of-distribution reaction classes.</p>
+  </li>
+  <li class="vision-step vision-step--done">
+    <span class="vision-step__label">Observe</span>
+    <strong>Reactions as latent trajectories</strong>
+    <p>LatentRxnFlow turns each reaction into an observable trajectory through a latent bottleneck.</p>
+  </li>
+  <li class="vision-step vision-step--done">
+    <span class="vision-step__label">Explain</span>
+    <strong>The geometry of reaction execution</strong>
+    <p>Emergent Steering makes that geometry explicit and shows that endpoint-orthogonal updates carry most of the functional signal.</p>
+  </li>
+  <li class="vision-step vision-step--active">
+    <span class="vision-step__label">Control</span>
+    <strong>Steering reaction representations</strong>
+    <p>Ongoing: activation steering that drifts reaction representations in a controlled way, toward desired transformations.</p>
+  </li>
+  <li class="vision-step">
+    <span class="vision-step__label">Expand</span>
+    <strong>Densifying sparse chemistry</strong>
+    <p>Next: use controllable models to propose new reactions that fill in the under-explored regions of reaction space.</p>
+  </li>
+  <li class="vision-step">
+    <span class="vision-step__label">Close the loop</span>
+    <strong>From data to model to lab</strong>
+    <p>Long term: a closed loop from data to model to automated experimental validation, so that proposed reactions get tested and their outcomes feed back into the models.</p>
+  </li>
+</ol>
+
 ## Education
 
 <div class="experience-list">
@@ -81,7 +124,7 @@ redirect_from:
       <img src="/images/publications/emergent-steering.png" alt="Directional decomposition of a chemical-reaction model update into endpoint-parallel and orthogonal components">
     </div>
     <div class="featured-publication__body">
-      <span class="status status--review">Under review · 2026</span>
+      <span class="status status--published">NeurIPS 2026</span>
       <h3>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
       <p>A directional latent audit reveals endpoint-orthogonal steering that carries most retrosynthesis utility.</p>
