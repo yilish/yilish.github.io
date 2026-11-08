@@ -88,7 +88,7 @@ redirect_from:
 <div class="experience-list">
   <div class="experience-item">
     <div><strong>Zillow</strong><span>Applied Scientist Intern</span></div>
-    <time>May 2026 – Present</time>
+    <time>May 2026 – Oct. 2026</time>
   </div>
   <div class="experience-item">
     <div><strong>University of Notre Dame · <a href="https://mine-lab-nd.github.io/">MINE Lab</a></strong><span>Graduate Research Assistant</span></div>
