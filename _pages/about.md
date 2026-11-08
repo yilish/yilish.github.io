@@ -45,7 +45,7 @@ redirect_from:
 <div class="experience-list">
   <div class="experience-item">
     <div><strong>Zillow</strong><span>Applied Scientist Intern</span></div>
-    <time>May 2026 – Present</time>
+    <time>May 2026 – Oct. 2026</time>
   </div>
   <div class="experience-item">
     <div><strong>University of Notre Dame · <a href="https://mine-lab-nd.github.io/">MINE Lab</a></strong><span>Graduate Research Assistant</span></div>
@@ -81,7 +81,7 @@ redirect_from:
       <img src="/images/publications/emergent-steering.png" alt="Directional decomposition of a chemical-reaction model update into endpoint-parallel and orthogonal components">
     </div>
     <div class="featured-publication__body">
-      <span class="status status--review">Under review · 2026</span>
+      <span class="status status--published">NeurIPS 2026</span>
       <h3>Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</h3>
       <p class="featured-publication__authors"><strong>Yili Shen</strong>, Kehan Guo, Haomin Zhuang, Xiangliang Zhang</p>
       <p>A directional latent audit reveals endpoint-orthogonal steering that carries most retrosynthesis utility.</p>
