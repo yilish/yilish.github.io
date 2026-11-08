@@ -9,13 +9,19 @@ redirect_from:
 ---
 
 <div class="profile-hero">
-  <p class="profile-kicker">Generative AI · Model Steering · AI for Science</p>
+  <p class="profile-kicker">Generative AI · Controllable AI · AI for Science</p>
   <h1>Building generative models that are more controllable, interpretable, and reliable.</h1>
   <p class="profile-lead">
     I am a Ph.D. student in Computer Science and Engineering at the University of Notre Dame,
     advised by <a href="https://mine-lab-nd.github.io/">Prof. Xiangliang Zhang</a>. My research studies
     how generative models learn, represent, steer, and execute complex behavior—from training dynamics
     and test-time behavior in language models to scientific modeling and discovery.
+  </p>
+  <p class="profile-lead">
+    To a chemist, a reaction is less a lookup than a small act of reasoning: bonds weighed, paths
+    imagined, most of them quietly abandoned. I am curious whether machines can learn to think this way,
+    and, if they do, whether we can look inside, follow the thought as it forms, and gently turn it
+    toward somewhere no one has been.
   </p>
   <div class="profile-actions">
     <a class="profile-button profile-button--primary" href="/publications/">View publications</a>
